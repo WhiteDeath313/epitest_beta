@@ -1,0 +1,22 @@
+.grey-accueil_background {
+    background-color: lightgray;
+    margin: 8%;
+    min-height: 600px;
+}
+
+.center-contenu {
+    text-align: center;
+}
+
+.block-accueil {
+    margin-top: 5%;
+}
+
+.logo-accueil {
+    width: 100%;
+}
+
+.texte-accueil {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
